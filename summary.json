@@ -1,0 +1,18 @@
+{
+  "length": 147,
+  "substitutions": [
+    [
+      7,
+      "E",
+      "V"
+    ]
+  ],
+  "identical_residues": 146,
+  "identity_percent": 99.31972789115646,
+  "blosum62_global_score": 773.0,
+  "ca_rmsd_angstrom": 0.07066544928260317,
+  "wt_mean_plddt": 97.28537414965987,
+  "mutant_mean_plddt": 97.16503401360544,
+  "wt_site7_plddt": 97.25,
+  "mutant_site7_plddt": 96.88
+}

@@ -1,0 +1,11 @@
+variant,rank,model,mean_plddt,site7_plddt,ptm
+WT,1,001_alphafold2_ptm_model_5_seed_000,97.28537414965987,97.25,0.91
+WT,2,002_alphafold2_ptm_model_4_seed_000,96.98823129251701,96.25,0.91
+WT,3,003_alphafold2_ptm_model_3_seed_000,96.56156462585035,96.81,0.91
+WT,4,004_alphafold2_ptm_model_1_seed_000,96.35469387755101,96.5,0.9
+WT,5,005_alphafold2_ptm_model_2_seed_000,95.13598639455782,96.25,0.89
+E6V,1,001_alphafold2_ptm_model_5_seed_000,97.16503401360544,96.88,0.91
+E6V,2,002_alphafold2_ptm_model_4_seed_000,96.94360544217686,96.06,0.91
+E6V,3,003_alphafold2_ptm_model_3_seed_000,96.70673469387755,96.94,0.91
+E6V,4,004_alphafold2_ptm_model_1_seed_000,96.06210884353742,96.38,0.9
+E6V,5,005_alphafold2_ptm_model_2_seed_000,94.92340136054423,96.12,0.89
